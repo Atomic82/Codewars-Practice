@@ -1,6 +1,15 @@
 
-
 body {
-  background-color: black;
-  color: white;
+    
+    background-color: #16171b;
+    color: #efefef;
+    font-size: 1rem;
+    font-family: var(--font-sans-serif);
+
+    line-height: 1.5em;
+    position: relative;
+    -webkit-font-smoothing: antialiased;
+    height: 100%;
+    padding-top: 65px;
 }
+
